@@ -57,7 +57,16 @@ nav ul li a {
     font-size: 1.2em;
     margin-bottom: 30px;
 }
-
+.heroColumnLeft {
+    column-width: 25%;
+}
+.heroColumnCenter {
+    column-width: 50%;
+}
+.heroColumnRight {
+    column-width: 25%;
+}
+/*Button CSS*/
 .cta-btn {
     background-color: #f4f4f4;
     color: #333;
