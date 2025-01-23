@@ -91,11 +91,10 @@ section ul {
     list-style-type: none;
     padding: 0;
 }
-
+ /* About class */
 .about ul li {
     font-size: 2.2em;
     font-weight: bold;
-
 }
 
 section ul li {
