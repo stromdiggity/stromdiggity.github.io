@@ -60,6 +60,7 @@ nav ul li a {
 .heroRow {
     content: "";
     display: table;
+    columns: 2;
     /*clear: left;  might need to get rid of this*/
 }
 .heroColumnLeft {
