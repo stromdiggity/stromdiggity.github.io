@@ -67,6 +67,7 @@ nav ul li a {
     column-width: 25%;
 }
 .heroColumnCenter {
+    position: fixed;
     column-width: 50%;
 }
 .heroColumnRight {
