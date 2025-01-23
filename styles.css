@@ -92,6 +92,12 @@ section ul {
     padding: 0;
 }
 
+.about ul li {
+    font-size: 2.2em;
+    font-weight: bold;
+
+}
+
 section ul li {
     font-size: 1.2em;
     margin-bottom: 10px;
