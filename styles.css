@@ -60,19 +60,15 @@ nav ul li a {
 .heroRow {
     content: "";
     display: table;
-    clear: left;
+    clear: left;  /*might need to get rid of this*/
 }
 .heroColumnLeft {
     float: left;
-    column-width: 25%;
-}
-.heroColumnCenter {
-    position: fixed;
     column-width: 50%;
 }
 .heroColumnRight {
     float: right;
-    column-width: 25%;
+    column-width: 50%;
 }
 /*Button CSS*/
 .cta-btn {
