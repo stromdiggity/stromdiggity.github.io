@@ -59,7 +59,8 @@ nav ul li a {
 }
 .heroRow {
     content: "";
-    display: flex;
+    display: table;
+    columns: auto 2;
     /*clear: left;  might need to get rid of this*/
 }
 .heroColumnLeft {
