@@ -58,12 +58,15 @@ nav ul li a {
     margin-bottom: 30px;
 }
 .heroColumnLeft {
+    float: left;
     column-width: 25%;
 }
 .heroColumnCenter {
+    float: left;
     column-width: 50%;
 }
 .heroColumnRight {
+    float: right;
     column-width: 25%;
 }
 /*Button CSS*/
