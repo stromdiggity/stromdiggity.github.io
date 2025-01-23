@@ -114,3 +114,18 @@ footer {
 footer p {
     font-size: 1em;
 }
+
+/* Report page classes */
+.reportGrid{
+    display: grid;
+    grid: auto auto / auto auto auto auto;
+    grid-gap: 15px;
+    background-color: #4CAF50;
+    padding: 15px;
+}
+.report{
+    background-color: #2FFFB0;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 25px;
+}
