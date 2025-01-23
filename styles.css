@@ -70,13 +70,13 @@ nav ul li a {
 }
 .heroColumnLeft {
     float: left;
-    column-width: 50%;
+    column-width: 500px;
     padding-left: 50px;
     padding-right: 50px;
 }
 .heroColumnRight {
     float: right;
-    column-width: 50%;
+    column-width: 500px;
     padding-left: 50px;
     padding-right: 50px;
 }
