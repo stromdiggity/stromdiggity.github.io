@@ -60,12 +60,16 @@ nav ul li a {
 .heroRow {
     content: "";
     display: flex;
+    /*clear: left;  might need to get rid of this*/
 }
-.heroColumn {
-    flex: 50%;
-    padding: 15px;
+.heroColumnLeft {
+    float: left;
+    column-width: 50%;
 }
-
+.heroColumnRight {
+    float: right;
+    column-width: 50%;
+}
 /*Button CSS*/
 .cta-btn {
     background-color: #f4f4f4;
