@@ -61,6 +61,11 @@ nav ul li a {
     content: "";
     display: table;
     columns: 500px 3;
+    padding-left: 49px;
+    padding-right: 49px;
+    margin-left: 50;
+    margin-right: 50;
+
     /*clear: left;  might need to get rid of this*/
 }
 .heroColumnLeft {
