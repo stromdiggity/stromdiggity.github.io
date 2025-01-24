@@ -60,9 +60,10 @@ nav ul li a {
 .heroRow {
     content: "";
     display: table;
+    height: auto;
     columns: 500px 3;
-    padding-left: 49px;
-    padding-right: 49px;
+    padding-left: 50px;
+    padding-right: 50px;
     margin-left: 50;
     margin-right: 50;
 
@@ -70,13 +71,12 @@ nav ul li a {
 }
 .heroColumnLeft {
     float: left;
-    column-width: 500px;
-    padding-left: 50px;
-    padding-right: 50px;
+    column-width: 450px;
+    padding-left: 110px;
 }
 .heroColumnRight {
     float: right;
-    column-width: 500px;
+    column-width: auto;
     padding-left: 50px;
     padding-right: 50px;
 }
